@@ -29,7 +29,7 @@ El análisis está dividido en tres etapas principales, que corresponden a los m
 * Estandarización de los nombres de las columnas.
 * Manejo de valores nulos y eliminación de filas duplicadas para asegurar la calidad de los datos.
 
-**Evidencia Adicional:** Se desarrolló una página interactiva para visualizar los hallazgos de esta etapa, disponible en este [enlace de Hugging Face](https://huggingface.co/spaces/LinaJMR/SECOP-II).
+**Evidencia Adicional:** Se desarrolló una página interactiva para visualizar los hallazgos de esta etapa, disponible en este [enlace de Hugging Face](https://huggingface.co/spaces/Lanexbx/modulo-1).
 
 ---
 
